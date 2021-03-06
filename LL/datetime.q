@@ -6,5 +6,5 @@
 
 .LL.datetime.unixtokdb:{
     [u]
-    12h$1970.01.01D00:00:00+u*1e9
+    12h$1970.01.01D+u*1e9
     }
